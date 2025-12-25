@@ -1,0 +1,142 @@
+{
+  "leak.n.v": [
+    0.0,
+    0.0
+  ],
+  "leak.R": [
+    10000000.0,
+    10000000.0
+  ],
+  "ground.p.v": [
+    0.0,
+    0.0
+  ],
+  "voltage.p.v": [
+    0.0,
+    0.0
+  ],
+  "voltage.offset": [
+    0.0,
+    0.0
+  ],
+  "voltage.startTime": [
+    0.0,
+    0.0
+  ],
+  "voltage.signalSource.nout": [
+    1.0,
+    1.0
+  ],
+  "voltage.signalSource.outPort.n": [
+    1.0,
+    1.0
+  ],
+  "voltage.signalSource.amplitude[1]": [
+    120.0,
+    120.0
+  ],
+  "voltage.signalSource.freqHz[1]": [
+    60.0,
+    60.0
+  ],
+  "voltage.signalSource.phase[1]": [
+    0.0,
+    0.0
+  ],
+  "voltage.signalSource.offset[1]": [
+    0.0,
+    0.0
+  ],
+  "voltage.signalSource.startTime[1]": [
+    0.0,
+    0.0
+  ],
+  "voltage.V": [
+    120.0,
+    120.0
+  ],
+  "voltage.phase": [
+    0.0,
+    0.0
+  ],
+  "voltage.freqHz": [
+    60.0,
+    60.0
+  ],
+  "diode.Roff": [
+    9.999999747378752e-06,
+    9.999999747378752e-06
+  ],
+  "diode.Gon": [
+    9.999999747378752e-06,
+    9.999999747378752e-06
+  ],
+  "diode.Vknee": [
+    0.0,
+    0.0
+  ],
+  "capacitor.n.v": [
+    0.0,
+    0.0
+  ],
+  "capacitor.C": [
+    9.999999747378752e-05,
+    9.999999747378752e-05
+  ],
+  "short.R": [
+    9.999999747378752e-06,
+    9.999999747378752e-06
+  ],
+  "transformer.p1.v": [
+    0.0,
+    0.0
+  ],
+  "transformer.p2.v": [
+    0.0,
+    0.0
+  ],
+  "transformer.n": [
+    22.0,
+    22.0
+  ],
+  "switch.Roff": [
+    9.999999747378752e-06,
+    9.999999747378752e-06
+  ],
+  "switch.Gon": [
+    0.0,
+    0.0
+  ],
+  "switch.control.n": [
+    1.0,
+    1.0
+  ],
+  "load.n.v": [
+    0.0,
+    0.0
+  ],
+  "load.R": [
+    3000.0,
+    3000.0
+  ],
+  "load_switch.nout": [
+    1.0,
+    1.0
+  ],
+  "load_switch.outPort.n": [
+    1.0,
+    1.0
+  ],
+  "load_switch.width[1]": [
+    50.0,
+    50.0
+  ],
+  "load_switch.period[1]": [
+    0.5,
+    0.5
+  ],
+  "load_switch.startTime[1]": [
+    0.0,
+    0.0
+  ]
+}

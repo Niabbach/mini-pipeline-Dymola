@@ -1,0 +1,338 @@
+{
+  "nr_nl.I1.J": [
+    1.0,
+    1.0
+  ],
+  "nr_nl.I2.flange_b.tau": [
+    0.0,
+    0.0
+  ],
+  "nr_nl.I2.J": [
+    3.0,
+    3.0
+  ],
+  "nr_nl.torque.inPort.n": [
+    1.0,
+    1.0
+  ],
+  "nr_nl.torque.bearing.phi": [
+    0.0,
+    0.0
+  ],
+  "nr_nl.torque.bearing.tau": [
+    0.0,
+    0.0
+  ],
+  "nr_nl.signal.nout": [
+    1.0,
+    1.0
+  ],
+  "nr_nl.signal.outPort.n": [
+    1.0,
+    1.0
+  ],
+  "nr_nl.signal.amplitude[1]": [
+    1.0,
+    1.0
+  ],
+  "nr_nl.signal.freqHz[1]": [
+    1.0,
+    1.0
+  ],
+  "nr_nl.signal.phase[1]": [
+    0.0,
+    0.0
+  ],
+  "nr_nl.signal.offset[1]": [
+    0.0,
+    0.0
+  ],
+  "nr_nl.signal.startTime[1]": [
+    0.0,
+    0.0
+  ],
+  "nr_nl.backlash.b": [
+    0.009999999776482582,
+    0.009999999776482582
+  ],
+  "nr_nl.backlash.c": [
+    100000.0,
+    100000.0
+  ],
+  "nr_nl.backlash.d": [
+    0.0,
+    0.0
+  ],
+  "r_nl.I1.J": [
+    1.0,
+    1.0
+  ],
+  "r_nl.I2.J": [
+    2.0,
+    2.0
+  ],
+  "r_nl.torque.inPort.n": [
+    1.0,
+    1.0
+  ],
+  "r_nl.torque.bearing.phi": [
+    0.0,
+    0.0
+  ],
+  "r_nl.torque.bearing.tau": [
+    0.0,
+    0.0
+  ],
+  "r_nl.signal.nout": [
+    1.0,
+    1.0
+  ],
+  "r_nl.signal.outPort.n": [
+    1.0,
+    1.0
+  ],
+  "r_nl.signal.amplitude[1]": [
+    1.0,
+    1.0
+  ],
+  "r_nl.signal.freqHz[1]": [
+    1.0,
+    1.0
+  ],
+  "r_nl.signal.phase[1]": [
+    0.0,
+    0.0
+  ],
+  "r_nl.signal.offset[1]": [
+    0.0,
+    0.0
+  ],
+  "r_nl.signal.startTime[1]": [
+    0.0,
+    0.0
+  ],
+  "r_nl.backlash.b": [
+    0.009999999776482582,
+    0.009999999776482582
+  ],
+  "r_nl.backlash.c": [
+    100000.0,
+    100000.0
+  ],
+  "r_nl.backlash.d": [
+    0.0,
+    0.0
+  ],
+  "r_nl.gear.bearing.phi": [
+    0.0,
+    0.0
+  ],
+  "r_nl.gear.bearing.tau": [
+    0.0,
+    0.0
+  ],
+  "r_nl.gear.ratio": [
+    1.0,
+    1.0
+  ],
+  "r_nl.I3.flange_b.tau": [
+    0.0,
+    0.0
+  ],
+  "r_nl.I3.J": [
+    1.0,
+    1.0
+  ],
+  "nr_cor.I1.flange_b.tau": [
+    0.0,
+    0.0
+  ],
+  "nr_cor.I1.J": [
+    1.0,
+    1.0
+  ],
+  "nr_cor.I2.flange_a.tau": [
+    0.0,
+    0.0
+  ],
+  "nr_cor.I2.flange_b.tau": [
+    0.0,
+    0.0
+  ],
+  "nr_cor.I2.J": [
+    3.0,
+    3.0
+  ],
+  "nr_cor.torque.inPort.n": [
+    1.0,
+    1.0
+  ],
+  "nr_cor.torque.bearing.phi": [
+    0.0,
+    0.0
+  ],
+  "nr_cor.torque.bearing.tau": [
+    0.0,
+    0.0
+  ],
+  "nr_cor.signal.nout": [
+    1.0,
+    1.0
+  ],
+  "nr_cor.signal.outPort.n": [
+    1.0,
+    1.0
+  ],
+  "nr_cor.signal.amplitude[1]": [
+    1.0,
+    1.0
+  ],
+  "nr_cor.signal.freqHz[1]": [
+    1.0,
+    1.0
+  ],
+  "nr_cor.signal.phase[1]": [
+    0.0,
+    0.0
+  ],
+  "nr_cor.signal.offset[1]": [
+    0.0,
+    0.0
+  ],
+  "nr_cor.signal.startTime[1]": [
+    0.0,
+    0.0
+  ],
+  "nr_cor.backlash.tau": [
+    0.0,
+    0.0
+  ],
+  "nr_cor.backlash.flange_a.tau": [
+    0.0,
+    0.0
+  ],
+  "nr_cor.backlash.flange_b.tau": [
+    0.0,
+    0.0
+  ],
+  "nr_cor.backlash.b": [
+    0.009999999776482582,
+    0.009999999776482582
+  ],
+  "nr_cor.backlash.I1": [
+    1.0,
+    1.0
+  ],
+  "nr_cor.backlash.I2": [
+    3.0,
+    3.0
+  ],
+  "nr_cor.backlash.K": [
+    1.0,
+    1.0
+  ],
+  "r_cor.I1.flange_b.tau": [
+    0.0,
+    0.0
+  ],
+  "r_cor.I1.J": [
+    1.0,
+    1.0
+  ],
+  "r_cor.I2.flange_a.tau": [
+    0.0,
+    0.0
+  ],
+  "r_cor.I2.J": [
+    2.0,
+    2.0
+  ],
+  "r_cor.torque.inPort.n": [
+    1.0,
+    1.0
+  ],
+  "r_cor.torque.bearing.phi": [
+    0.0,
+    0.0
+  ],
+  "r_cor.torque.bearing.tau": [
+    0.0,
+    0.0
+  ],
+  "r_cor.signal.nout": [
+    1.0,
+    1.0
+  ],
+  "r_cor.signal.outPort.n": [
+    1.0,
+    1.0
+  ],
+  "r_cor.signal.amplitude[1]": [
+    1.0,
+    1.0
+  ],
+  "r_cor.signal.freqHz[1]": [
+    1.0,
+    1.0
+  ],
+  "r_cor.signal.phase[1]": [
+    0.0,
+    0.0
+  ],
+  "r_cor.signal.offset[1]": [
+    0.0,
+    0.0
+  ],
+  "r_cor.signal.startTime[1]": [
+    0.0,
+    0.0
+  ],
+  "r_cor.backlash.tau": [
+    0.0,
+    0.0
+  ],
+  "r_cor.backlash.flange_a.tau": [
+    0.0,
+    0.0
+  ],
+  "r_cor.backlash.flange_b.tau": [
+    0.0,
+    0.0
+  ],
+  "r_cor.backlash.b": [
+    0.009999999776482582,
+    0.009999999776482582
+  ],
+  "r_cor.backlash.I1": [
+    1.0,
+    1.0
+  ],
+  "r_cor.backlash.I2": [
+    2.0,
+    2.0
+  ],
+  "r_cor.backlash.K": [
+    1.0,
+    1.0
+  ],
+  "r_cor.gear.bearing.phi": [
+    0.0,
+    0.0
+  ],
+  "r_cor.gear.bearing.tau": [
+    0.0,
+    0.0
+  ],
+  "r_cor.gear.ratio": [
+    1.0,
+    1.0
+  ],
+  "r_cor.I3.flange_b.tau": [
+    0.0,
+    0.0
+  ],
+  "r_cor.I3.J": [
+    1.0,
+    1.0
+  ]
+}
